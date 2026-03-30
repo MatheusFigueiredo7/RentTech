@@ -3,7 +3,7 @@
 ## 📋 Respostas ao Desafio
 
 ### 1. Qual é o tema do seu sistema?
-O **RentTech** é uma plataforma para o gerenciamento de inventário e locação de equipamentos audiovisuais, como câmeras, drones e kits de iluminação. O sistema foi criado para substituir o exemplo de "Tarefas Acadêmicas" utilizado em aula, focando em um novo domínio.
+O **RentTech** é uma plataforma para o gerenciamento de inventário e locação de equipamentos audiovisuais, como câmeras, drones e kits de iluminação.
 
 ### 2. Quais são as funcionalidades esperadas?
 * **Gestão de Inventário:** Cadastro e edição de equipamentos via painel administrativo (Django Admin).
